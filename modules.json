@@ -178,7 +178,7 @@
     }
   },
   "highcharts": {
-    "var": "highcharts",
+    "var": "Highcharts",
     "versions": {
       ">= 6.0.0": {
         "development": "https://unpkg.com/highcharts@[version]/highcharts.js",
