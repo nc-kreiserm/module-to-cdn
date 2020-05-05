@@ -182,7 +182,7 @@
     "versions": {
       ">= 6.0.0": {
         "development": "https://unpkg.com/highcharts@[version]/highcharts.js",
-        "production": "https://unpkg.com/highcharts@[version]/highcharts.min.js"
+        "production": "https://unpkg.com/highcharts@[version]/highcharts.js"
       }
     }
   },
@@ -235,8 +235,8 @@
     "var": "_",
     "versions": {
       ">= 4.5.1": {
-        "development": "https://unpkg.com/lodash@[version]/core.js",
-        "production": "https://unpkg.com/lodash@[version]/core.min.js"
+        "development": "https://unpkg.com/lodash@[version]/lodash.js",
+        "production": "https://unpkg.com/lodash@[version]/lodash.min.js"
       }
     }
   },
